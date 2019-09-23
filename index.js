@@ -13,4 +13,4 @@ console.log("gfga")
 console.log(arTest)
 console.log(arTest.join(","))*/
 console.log(greeting)
-console.log("Hello,"+ greetSpecialGuest)
+console.log("Hello," + greetSpecialGuest)
