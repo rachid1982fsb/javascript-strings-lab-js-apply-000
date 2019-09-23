@@ -12,3 +12,4 @@ var conversation = `${topic}`;
 console.log("gfga")
 console.log(arTest)
 console.log(arTest.join(","))*/
+console.log(greeting)
