@@ -2,7 +2,7 @@ var greeting = "Hello, everybody!";
 
 var specialGuest = "Neil deGrasse Tyson"
 
-var greetSpecialGuest = "" + specialGuest + "!";
+var greetSpecialGuest = "Hello, " + specialGuest + "!";
 
 var topic = "space";
 
@@ -13,4 +13,4 @@ console.log("gfga")
 console.log(arTest)
 console.log(arTest.join(","))*/
 console.log(greeting)
-console.log(`"Hello," ${greetSpecialGuest}`)
+greetSpecialGuest
